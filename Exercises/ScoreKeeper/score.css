@@ -1,0 +1,9 @@
+.header {
+	color: Purple;
+	border: 2px solid red;
+	background: yellow;
+}
+
+.winner {
+	color: green;
+}
